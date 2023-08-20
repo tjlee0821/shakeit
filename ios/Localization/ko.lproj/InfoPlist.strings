@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by 이태룡 on 2023/08/20.
+  
+*/
+
+"CFBundleDisplayName" =  "흔들기 카운트 앱";
